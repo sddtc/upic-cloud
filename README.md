@@ -1,2 +1,5 @@
 # upic-cloud
-saving images by uPic
+
+Saving sddtc's images by uPic
+
+😳 Recommended by [Fatezhang](https://github.com/Fatezhang)
